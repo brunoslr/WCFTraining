@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRESTService", "MyRestServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRESTClient", "MyRESTClient\MyRESTClient.csproj", "{55B32D26-8D5C-4DA8-AFBC-4F849FDFB244}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRESTServiceCRUD", "SimpleRESTServiceCRUD\SimpleRESTServiceCRUD.csproj", "{F68FFC98-B981-4EDE-9550-D29F6114E109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{55B32D26-8D5C-4DA8-AFBC-4F849FDFB244}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55B32D26-8D5C-4DA8-AFBC-4F849FDFB244}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55B32D26-8D5C-4DA8-AFBC-4F849FDFB244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68FFC98-B981-4EDE-9550-D29F6114E109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68FFC98-B981-4EDE-9550-D29F6114E109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68FFC98-B981-4EDE-9550-D29F6114E109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68FFC98-B981-4EDE-9550-D29F6114E109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
